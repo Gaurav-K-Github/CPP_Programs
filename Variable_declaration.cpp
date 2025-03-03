@@ -6,5 +6,3 @@ int main() {
   cout << myNum;
   return 0;
 }
- 
- 
